@@ -1,0 +1,249 @@
+{
+  "slides": {
+    "3": {
+      "type": "image",
+      "time": "0:3",
+      "source": "welcome-0_1.png",
+      "isNotify":true,
+      "notifyMessage":"presentation started"
+    },
+    "5": {
+      "type": "image",
+      "time": "0:5",
+      "source": "af-06.png"
+    },
+    "40": {
+      "time": "25",
+      "type": "image",
+      "source": "businessofyourown.png"
+    },
+    "45": {
+      "time": "50",
+      "type": "image",
+      "source": "passiveincomesource.png"
+    },
+    "55": {
+      "time": "2:1",
+      "type": "image",
+      "source": "incomesuportfreedom.png",
+      "isNotify":true,
+      "notifyMessage":"presentation 1 minutes"
+    },
+    "1:5": {
+      "time": "2:20",
+      "type": "image",
+      "source": "howpractical.png"
+    },
+    "1:14": {
+      "time": "2:42",
+      "type": "image",
+      "source": "no-time.png"
+    },
+    "1:24": {
+      "time": "2:51",
+      "type": "image",
+      "source": "no-money.png"
+    },
+    "1:38": {
+      "time": "3:1",
+      "type": "image",
+      "source": "hi-risk.png"
+    },
+    "2:12": {
+      "time": "3:38",
+      "type": "image",
+      "source": "how-to-solve.png"
+    },
+    "2:20": {
+      "time": "3:50",
+      "type": "image",
+      "source": "lesscapital.png"
+    },
+    "2:30": {
+      "time": "4:8",
+      "type": "image",
+      "source": "less-time-investment.png"
+    },
+    "3:8": {
+      "time": "4:2",
+      "type": "image",
+      "source": "no-risk.png" ,
+      "isNotify":true,
+      "notifyMessage":"presentation 4 minutes"
+    },
+    "3:15": {
+      "time": "4:40",
+      "type": "image",
+      "source": "doyouknowsuchabusinessidea.png"
+    },
+    "3:48": {
+      "time": "5:2",
+      "type": "image",
+      "source": "notgettingpaidfor.png"
+    },
+    "3:58": {
+      "time": "5:20",
+      "type": "image",
+      "source": "amazoneflipkart.png"
+    },
+    
+    "4:1": {
+      "time": "5:20",
+      "type": "image",
+      "source": "whatwedoifwelikeproduct.png"
+},
+    
+       "4:11": {
+      "time": "5:20",
+      "type": "image",
+      "source": "wereccomend.png"
+},
+    
+    "4:28": {
+      "time": "6:1",
+      "type": "image",
+      "source": "amazone-reviews.png"
+    },
+    "4:38": {
+      "time": "6:20",
+      "type": "image",
+      "source": "amazone-make-money.png"
+    },
+    "4:52": {
+      "time": "12:10",
+      "type": "image",
+      "source": "sellin-new-1_1.png"
+    },
+    
+     "5:35": {
+      "time": "12:10",
+      "type": "image",
+      "source": "sellin-new-4_1.png"
+    },
+    
+    
+    "6:1": {
+      "time": "12:10",
+      "type": "image",
+      "source": "register2.png"
+    },
+    "6:14": {
+      "time": "12:10",
+      "type": "image",
+      "source": "login.png"
+    },
+    
+     "6:30 ": {
+      "time": "12:10",
+      "type": "image",
+      "source": "sellin-new-1_1.png"
+    },
+    "7:1": {
+      "time": "12:10",
+      "type": "image",
+      "source": "youandcustomers-1.png" ,
+      "isNotify":true,
+      "notifyMessage":"presentation 8 minutes"
+    },
+    "7:10": {
+      "time": "12:10",
+      "type": "image",
+      "source": "youandcustomers-2.png"
+    },
+    "7:35": {
+      "time": "12:10",
+      "type": "image",
+      "source": "youandcustomers-3.png"
+    },
+    
+     "7:55": {
+      "time": "12:10",
+      "type": "image",
+      "source": "sellin-new-4_1.png"
+    },
+    
+    "8:10": {
+      "time": "12:10",
+      "type": "image",
+      "source": "youandcustomers-3.png"
+    },
+    
+    
+     "8:24": {
+      "time": "12:10",
+      "type": "image",
+      "source": "sellin-new-4_1.png"
+    },
+    
+    "8:40": {
+      "time": "13:37",
+      "type": "image",
+      "source": "pv.png"
+    },
+    "9:5": {
+      "time": "14:05",
+      "type": "image",
+      "source": "ar-18.png"
+    },
+    
+    
+     "9:25": {
+      "time": "12:10",
+      "type": "image",
+      "source": "youandcustomers-3.png"
+    },
+    
+    
+     "9:35": {
+      "time": "12:10",
+      "type": "image",
+      "source": "sellin-new-4_1.png"
+    },
+    
+    
+    "9:50": {
+      "time": "14:30",
+      "type": "image",
+      "source": "sellin-new-2.png"
+    },
+    "10:12": {
+      "time": "15:02",
+      "type": "image",
+      "source": "sellin-new-3.png"
+    },
+    "10:40": {
+      "time": "15:25",
+      "type": "image",
+      "source": "sellin-new-4.png"
+    },
+   
+    "11:3": {
+      "time": "16:10",
+      "type": "image",
+      "source": "az-26.png"
+    },
+    "11:36": {
+      "time": "16:23",
+      "type": "image",
+      "source": "ba-28.png" ,
+      "isNotify":true,
+      "notifyMessage":"presentation 12 minutes"
+    },
+   
+    "12:10": {
+      "time": "17:24",
+      "type": "image",
+      "source": "mediacommercial.png"
+    }
+    
+     ,
+    "12:45": {
+      "time": "17:24",
+      "type": "image",
+      "source": "thankyou-3.png" ,
+      "isNotify":true,
+      "notifyMessage":"presentation completed"
+    }
+    
+  }
+}
