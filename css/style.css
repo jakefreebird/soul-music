@@ -1,0 +1,193 @@
+html, body {
+  margin: 0;
+ 
+  text-align: center
+}
+
+
+.p5Canvas{
+  display:none
+}
+
+div#mask {
+    display: block;
+    width: 100%;
+    height: 1000px;
+    
+    position: absolute;
+    background: white;
+    z-index: 100;
+    padding-top: 20px;
+}
+
+#mask input {
+    padding: 3px;
+}
+.player-controlls{
+  position:absolute;
+  left:0;
+  bottom:1px;
+  opacity:1;
+  display: block;
+  width: auto;
+  height: 4%;
+  background: #efefef;
+  padding:10px 0 10px 0;
+  color:white;
+  width:99.7%;
+  border: 1px dotted black;
+ 
+
+}
+
+.player-controlls .controlls{
+  opacity:.8
+}
+
+
+
+
+#play, #pause {
+  display: inline-block;
+  position: relative;
+  cursor: pointer;
+}
+
+#pause{
+  display: none;
+  cursor: pointer;
+}
+
+#rewind{
+  margin-right: 50px;
+  opacity: 0;
+
+}
+
+#forward{
+  margin-left: 50px;
+ 
+}
+
+#forward img, #pause img, #rewind img, #play img {
+  box-shadow: rgba(133, 137, 139, 0.75) 2px 1px 1px 0px;
+  border: 1px solid #63666a;
+  height: 80%;
+  cursor: pointer;
+}
+
+#forward img:active, #pause img:active, #rewind img:active, #play img:active {
+  box-shadow: none;
+  border:none
+}
+
+
+#forward img:hover, #pause img:hover, #rewind img:hover, #play img:hover {
+  box-shadow: rgba(133, 137, 139, 0.75)  -3px -3px 4px 1px;
+}
+.loadingclass{
+  position: relative;
+  display: none;
+}
+.percentage{
+  font-size: 50px;
+  font-style: italic;
+ 
+  color: #6c6b6b;
+  position: absolute;
+  top:60%;
+  left:25%
+}
+
+.timer {
+  color: black;
+  opacity: 1;
+  float: left;
+  display: inline-block;
+  position: absolute;
+  top: 15px;
+  left: 10px;
+}
+
+#video_holder{
+  display:none;
+}
+pre{
+
+width: 100%;
+margin: 0 auto 0 auto;
+padding: 30px;
+text-align: left;
+font-size: 16px;
+}
+
+.precontainer {
+  display: block;
+
+  max-height: 50%;
+  overflow-y: auto;
+  overflow-x: auto;
+  width: 73%;
+  background: #efefef;
+  border:2px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  padding: 10px;
+}
+
+pre.prettyprint{
+  border:none;
+}
+
+#slider{
+  height:95%;
+  width: 100%;
+}
+
+
+
+.anim{
+  animation-name: example;
+  animation-duration: 1s;
+}
+
+@keyframes example {
+  from {opacity: .5;}
+  to {opacity:1}
+}
+
+
+
+#show-controlls {display:block;
+width:240px;
+padding:5px;
+background:#ddd6d6;
+cursor:pointer;
+   
+}
+
+.youtube-container h4 {
+    display: block;
+    padding: 10px;
+    background: #fafafa;
+    width: 927px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:10px
+}
+
+.img-container{
+   
+}
+
+.youtube-container iframe {
+    display: block;
+    padding: 10px;
+    background: #fafafa;
+    width: 927px;
+    border: 1px solid gray;
+    margin-left:auto;
+    margin-right:auto
+}
+
